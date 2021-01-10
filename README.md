@@ -2,7 +2,7 @@
 
 # Symulator_lotow_kosmicznych
 
-**Symulator lotów kosmicznych** jest grą w formie _odpowiedz i idź dalej_, gdzie każda poprawna odpowiedź (albo wystarczająco dobra) przyznaje graczwi pewną ilość punktów (w przypadku złych odpowiedzi są one odejmowane).
+**Symulator lotów kosmicznych** jest grą w formie _odpowiedz i idź dalej_, gdzie każda poprawna odpowiedź (albo wystarczająco dobra) przyznaje graczowi pewną ilość punktów (w przypadku złych odpowiedzi są one odejmowane).
 
 **Poniżej przykład obrazka na którym wybiera się cel podróży**
 

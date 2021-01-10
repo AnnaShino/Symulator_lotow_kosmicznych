@@ -22,6 +22,8 @@ Po za wciągającą grą, jest to ciekawe źródło informacji (wiele z nich poc
 
 Jeżeli chcesz spróbować swoich sił - **ŚMIAŁO**! 
 
+Ze względu na rozmiar przekraczający 25 MB, **aplikacja została umieszczona w archiwum ZIP**.
+
 #
 
 **_Wszystkie grafiki wykorzystane w grze  (jak i te zamieszczone tutaj) są mojego autorstwa. Zgadzam się na ich wykorzystwanie, lecz proszę o wskazanie ich źródła._**

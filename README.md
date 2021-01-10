@@ -24,7 +24,7 @@ Jeżeli chcesz spróbować swoich sił - **ŚMIAŁO**!
 
 #
 
-**_Wszystkie grafiki wykorzystane w grze, jak i zamieszczone tutaj są mojego autorstwa. Zgadzam się na ich wykorzystwanie, lecz proszę o wskazanie ich źródła._**
+**_Wszystkie grafiki wykorzystane w grze  (jak i te zamieszczone tutaj) są mojego autorstwa. Zgadzam się na ich wykorzystwanie, lecz proszę o wskazanie ich źródła._**
 
 
 ![ZAKOŃCZENIE](https://github.com/AnnaShino/Symulator_lotow_kosmicznych/blob/main/zakonczenie.png)

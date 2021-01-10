@@ -1,1 +1,1 @@
-# Symulator-lot-w-kosmicznych
+# Symulator_lotow_kosmicznych

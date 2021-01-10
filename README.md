@@ -16,13 +16,17 @@ Na koniec są one sumowane na dwa sposoby: punkty postępu misji oraz punkty "re
 
 Po za wciągającą grą, jest to ciekawe źródło informacji (wiele z nich pochodzi ze strony **NASA** oraz z innych źródeł dot. lotów kosmicznych). 
 
-**Poniżej obraazek który w grze jest tłem dla zakładki _więcej o NASA_**
+**Poniżej obrazek który w grze jest tłem dla zakładki _więcej o NASA_**
 
 ![NASA](https://github.com/AnnaShino/Symulator_lotow_kosmicznych/blob/main/nasa.png)
 
 Jeżeli chcesz spróbować swoich sił - **ŚMIAŁO**! 
 
-![ZAKOŃCZENIE](https://github.com/AnnaShino/Symulator_lotow_kosmicznych/blob/main/zakonczenie.png)
+#
 
 **_Wszystkie grafiki wykorzystane w grze, jak i zamieszczone tutaj są mojego autorstwa. Zgadzam się na ich wykorzystwanie, lecz proszę o wskazanie ich źródła._**
+
+
+![ZAKOŃCZENIE](https://github.com/AnnaShino/Symulator_lotow_kosmicznych/blob/main/zakonczenie.png)
+
 
